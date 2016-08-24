@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\anim\\shake_x.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\anim\\shake_y.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\anim\\shake_y.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\anim\\interpolator_cycle.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\anim\\interpolator_cycle.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\anim\\shake.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\anim\\shake.xml"
+    }
+]

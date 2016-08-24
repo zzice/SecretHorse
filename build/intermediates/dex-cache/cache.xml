@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\studio_android_sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\SecretHorse\passWord\build\intermediates\pre-dexed\release\support-v4-19.1.0_64fd69c30f09cd1f3c968c5eb845615504555deb.jar" />
+    </item>
+    <item
+        jar="E:\SecretHorse\passWord\build\intermediates\exploded-aar\SecretHorse\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9a185777e30d1c50391ef805748c3c048895e16e">
+        <dex dex="E:\SecretHorse\passWord\build\intermediates\pre-dexed\release\SecretHorse-library-unspecified_357ec5ec1bd3d94b32776c8510c0506cc5ce7b54.jar" />
+    </item>
+    <item
+        jar="E:\SecretHorse\passWord\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\SecretHorse\passWord\build\intermediates\pre-dexed\release\xUtils-2.6.14_5acddc188a19df2e49b02022727578443d2f8f8b.jar" />
+    </item>
+
+</items>

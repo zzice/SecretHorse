@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="E:\SecretHorse\secretHorse\build\intermediates\exploded-aar\SecretHorse\library\unspecified\assets"/></dataSet><dataSet config="main"><source path="E:\SecretHorse\secretHorse\src\main\assets"/><source path="E:\SecretHorse\secretHorse\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\SecretHorse\secretHorse\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\pass_dialog_confirm.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\pass_dialog_confirm.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_view_layout.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\dropdown_view_layout.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\pass_dialog_confirm.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\pass_dialog_confirm.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_app.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\item_list_app.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\edit_psw_layout.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\edit_psw_layout.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\pass_dialog_confirm_set.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\pass_dialog_confirm_set.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item_layout.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\spinner_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_view_layout.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\dropdown_view_layout.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\gesturepassword_unlock.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\gesturepassword_unlock.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\gesturepassword_unlock.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\gesturepassword_unlock.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_app.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\item_list_app.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\gesturepassword_guide.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\gesturepassword_guide.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\gesturepassword_create.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\gesturepassword_create.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\gesturepassword_create.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\gesturepassword_create.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\gesturepassword_guide.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\gesturepassword_guide.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launch.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\activity_launch.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\exploded-aar\\SecretHorse\\library\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_data.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\activity_add_data.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item_layout.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\spinner_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\data_list_item.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\data_list_item.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\edit_psw_layout.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\edit_psw_layout.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\data_list_item.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\data_list_item.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\pass_dialog_confirm_set.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\pass_dialog_confirm_set.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_data.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\activity_add_data.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\SecretHorse\\passWord\\build\\intermediates\\exploded-aar\\SecretHorse\\library\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launch.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\layout\\activity_launch.xml"
+    }
+]

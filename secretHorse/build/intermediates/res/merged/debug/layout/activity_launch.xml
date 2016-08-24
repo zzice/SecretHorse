@@ -1,0 +1,35 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LaunchActivity" >
+
+    <ImageView
+        android:id="@+id/launch_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/launch_bg" />
+	<Button 
+	    android:id="@+id/launch_skip_btn"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:padding="10dp"
+	    android:layout_margin="20dp"
+		android:background="@drawable/launch_btn_selector"	
+		android:textSize="14sp"    
+		android:layout_gravity="right"
+		android:textColor="#ffffff"
+		android:visibility="gone"
+	    />
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:id="@+id/version_name_tv"
+		android:layout_marginBottom="60dp"
+		android:textColor="#ffffff"
+		android:layout_gravity="center_horizontal|bottom" />
+
+</FrameLayout>

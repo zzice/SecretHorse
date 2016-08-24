@@ -1,0 +1,619 @@
+[
+    {
+        "outputFile": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\values-large-v4\\values-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 669,
+                        "endColumn": 43,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 43,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 43,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 49,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 49,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 40,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 40,
+                        "endOffset": 794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 39,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1412,
+                        "endColumn": 39,
+                        "endOffset": 1447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endLine": 17,
+                    "endColumn": 70,
+                    "endOffset": 1047
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1542,
+                        "endLine": 38,
+                        "endColumn": 70,
+                        "endOffset": 2315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1052,
+                    "endColumn": 42,
+                    "endOffset": 1090
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 42,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1095,
+                    "endColumn": 44,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 577,
+                        "endColumn": 44,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1140,
+                    "endColumn": 47,
+                    "endOffset": 1183
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 47,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1188,
+                    "endColumn": 42,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 534,
+                        "endColumn": 42,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 56,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 56,
+                        "endOffset": 529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endLine": 39,
+                    "endColumn": 76,
+                    "endOffset": 2252
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2320,
+                        "endLine": 55,
+                        "endColumn": 76,
+                        "endOffset": 3284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2257,
+                    "endColumn": 39,
+                    "endOffset": 2292
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 39,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2297,
+                    "endColumn": 41,
+                    "endOffset": 2334
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 41,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2339,
+                    "endColumn": 65,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 65,
+                        "endOffset": 774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 43,
+                    "endOffset": 2444
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1498,
+                        "endColumn": 43,
+                        "endOffset": 1537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2449,
+                    "endColumn": 43,
+                    "endOffset": 2488
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 43,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2493,
+                    "endColumn": 41,
+                    "endOffset": 2530
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 971,
+                        "endColumn": 41,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2535,
+                    "endColumn": 62,
+                    "endOffset": 2593
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 62,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2598,
+                    "endColumn": 37,
+                    "endOffset": 2631
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 835,
+                        "endColumn": 37,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2636,
+                    "endColumn": 57,
+                    "endOffset": 2689
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 57,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2694,
+                    "endColumn": 45,
+                    "endOffset": 2735
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 45,
+                        "endOffset": 1493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2740,
+                    "endColumn": 90,
+                    "endOffset": 2826
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3289,
+                        "endColumn": 90,
+                        "endOffset": 3375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2831,
+                    "endColumn": 61,
+                    "endOffset": 2888
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 61,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2893,
+                    "endColumn": 280,
+                    "endOffset": 3169
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endColumn": 280,
+                        "endOffset": 1407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3174,
+                    "endColumn": 55,
+                    "endOffset": 3225
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 779,
+                        "endColumn": 55,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3230,
+                    "endColumn": 39,
+                    "endOffset": 3265
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 39,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3270,
+                    "endColumn": 55,
+                    "endOffset": 3321
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 55,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3326,
+                    "endColumn": 66,
+                    "endOffset": 3388
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 66,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3393,
+                    "endColumn": 61,
+                    "endOffset": 3450
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 61,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3455,
+                    "endColumn": 47,
+                    "endOffset": 3498
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 47,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3503,
+                    "endColumn": 54,
+                    "endOffset": 3553
+                },
+                "from": {
+                    "file": "E:\\SecretHorse\\passWord\\src\\main\\res\\values-large\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 54,
+                        "endOffset": 1126
+                    }
+                }
+            }
+        ]
+    }
+]

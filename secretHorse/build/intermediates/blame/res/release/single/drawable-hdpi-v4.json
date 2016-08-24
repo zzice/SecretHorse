@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\card_avatar.9.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-hdpi\\card_avatar.9.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\application_bg_welcome.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-hdpi\\application_bg_welcome.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_richpush_actionbar_back.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xlistview_arrow.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-hdpi\\xlistview_arrow.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\aa.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-hdpi\\aa.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\jpush_notification_icon.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-hdpi\\jpush_notification_icon.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_richpush_actionbar_divider.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ab.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-hdpi\\ab.png"
+    }
+]

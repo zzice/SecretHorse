@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:src="@drawable/menu_bg"
+        android:scaleType="fitXY" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#f7f7f7" />
+
+    <TextView
+        android:id="@+id/modify_lock"
+        android:layout_width="match_parent"
+       android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="30dp"
+        android:background="#ffffff"
+        android:drawableLeft="@drawable/icon_settings"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:text="修改解锁图案"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#f7f7f7" />
+
+    <TextView
+        android:id="@+id/about_us_tv"
+        android:layout_width="match_parent"
+       android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="30dp"
+        android:background="#ffffff"
+        android:drawableLeft="@drawable/icon_about"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:text="关于"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#f7f7f7" />
+
+    <TextView
+        android:id="@+id/exit"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="30dp"
+        android:background="#ffffff"
+        android:drawableLeft="@drawable/icon_exit"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:text="退出"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#EEEEEE" />
+
+</LinearLayout>

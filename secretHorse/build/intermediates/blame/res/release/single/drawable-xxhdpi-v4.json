@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\add.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-xxhdpi\\add.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\delete.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\edit.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-xxhdpi\\edit.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\title.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-xxhdpi\\title.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\save.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-xxhdpi\\save.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\save_selected.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-xxhdpi\\save_selected.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\icon.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\passWord\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\add_selected.png",
+        "source": "E:\\SecretHorse\\passWord\\src\\main\\res\\drawable-xxhdpi\\add_selected.png"
+    }
+]
