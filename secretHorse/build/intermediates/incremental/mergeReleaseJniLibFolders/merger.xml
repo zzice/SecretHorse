@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\SecretHorse\passWord\src\main\jniLibs"><file name="armeabi/libjpush213.so" path="E:\SecretHorse\passWord\src\main\jniLibs\armeabi\libjpush213.so"/><file name="armeabi-v7a/libjpush213.so" path="E:\SecretHorse\passWord\src\main\jniLibs\armeabi-v7a\libjpush213.so"/></source></dataSet><dataSet config="release"><source path="E:\SecretHorse\passWord\src\release\jniLibs"/></dataSet></merger>

@@ -24,16 +24,16 @@ public final class R {
 		public static final int viewBehind = 0x7f01000b;
 	}
 	public static final class id {
-		public static final int fullscreen = 0x7f0a0006;
-		public static final int left = 0x7f0a0004;
-		public static final int margin = 0x7f0a0007;
-		public static final int none = 0x7f0a0008;
-		public static final int right = 0x7f0a0005;
-		public static final int selected_view = 0x7f0a0000;
-		public static final int slidingmenumain = 0x7f0a004e;
+		public static final int fullscreen = 0x7f090006;
+		public static final int left = 0x7f090004;
+		public static final int margin = 0x7f090007;
+		public static final int none = 0x7f090008;
+		public static final int right = 0x7f090005;
+		public static final int selected_view = 0x7f090000;
+		public static final int slidingmenumain = 0x7f09003e;
 	}
 	public static final class layout {
-		public static final int slidingmenumain = 0x7f03000e;
+		public static final int slidingmenumain = 0x7f03000c;
 	}
 	public static final class styleable {
 		public static final int[] SlidingMenu = { 0x7f010009, 0x7f01000a, 0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011, 0x7f010012, 0x7f010013, 0x7f010014, 0x7f010015, 0x7f010016 };
