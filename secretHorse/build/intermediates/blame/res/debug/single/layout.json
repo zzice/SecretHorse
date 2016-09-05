@@ -12,12 +12,12 @@
         "source": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\exploded-aar\\SecretHorse\\library\\unspecified\\res\\layout\\slidingmenumain.xml"
     },
     {
-        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_data.xml",
-        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\activity_add_data.xml"
-    },
-    {
         "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_data.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\layout\\activity_add_data.xml"
     },
     {
         "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_view_layout.xml",

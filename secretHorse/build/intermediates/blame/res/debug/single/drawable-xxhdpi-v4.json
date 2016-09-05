@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\edit.png",
-        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable-xxhdpi\\edit.png"
-    },
-    {
         "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\save.png",
         "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable-xxhdpi\\save.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\edit.png",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable-xxhdpi\\edit.png"
     },
     {
         "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",

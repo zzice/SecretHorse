@@ -28,6 +28,10 @@
         "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable-xhdpi\\icon_about.png"
     },
     {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_bgt.png",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable-xhdpi\\menu_bgt.png"
+    },
+    {
         "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gesture_guide_pic.png",
         "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable-xhdpi\\gesture_guide_pic.png"
     },
@@ -42,6 +46,10 @@
     {
         "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_green_pressed.9.png",
         "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_green_pressed.9.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_bgth.png",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable-xhdpi\\menu_bgth.png"
     },
     {
         "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gesture_create_grid_selected.png",
@@ -94,6 +102,10 @@
     {
         "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_red_unpressed.9.png",
         "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_red_unpressed.9.png"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_bgf.png",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable-xhdpi\\menu_bgf.png"
     },
     {
         "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_search.png",

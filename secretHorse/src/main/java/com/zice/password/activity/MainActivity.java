@@ -1,23 +1,5 @@
 package com.zice.password.activity;
 
-import java.util.List;
-
-import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
-import com.lidroid.xutils.DbUtils;
-import com.lidroid.xutils.DbUtils.DaoConfig;
-import com.lidroid.xutils.ViewUtils;
-import com.lidroid.xutils.db.sqlite.Selector;
-import com.lidroid.xutils.exception.DbException;
-import com.lidroid.xutils.view.annotation.ViewInject;
-import com.lidroid.xutils.view.annotation.event.OnClick;
-import com.zice.password.R;
-import com.zice.password.adapter.TAdapter;
-import com.zice.password.adapter.TAdapter.DeleteInterFace;
-import com.zice.password.base.BaseActivity;
-import com.zice.password.entity.Secret;
-import com.zice.password.util.Constant;
-import com.zice.password.util.Md5Util;
-
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
@@ -42,6 +24,25 @@ import android.widget.RelativeLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
+import com.lidroid.xutils.DbUtils;
+import com.lidroid.xutils.DbUtils.DaoConfig;
+import com.lidroid.xutils.ViewUtils;
+import com.lidroid.xutils.db.sqlite.Selector;
+import com.lidroid.xutils.exception.DbException;
+import com.lidroid.xutils.view.annotation.ViewInject;
+import com.lidroid.xutils.view.annotation.event.OnClick;
+import com.zice.password.R;
+import com.zice.password.adapter.TAdapter;
+import com.zice.password.adapter.TAdapter.DeleteInterFace;
+import com.zice.password.base.BaseActivity;
+import com.zice.password.entity.Secret;
+import com.zice.password.util.Constant;
+import com.zice.password.util.Md5Util;
+
+import java.util.List;
+import java.util.Random;
 
 public class MainActivity extends BaseActivity
 		implements android.view.View.OnClickListener, DeleteInterFace, OnItemSelectedListener, TextWatcher {
@@ -92,9 +93,14 @@ public class MainActivity extends BaseActivity
 	}
 
 	private void initMenuViews() {
+		//初始化背景图
+		int [] bgs = {R.drawable.menu_bg,R.drawable.menu_bgf,R.drawable.menu_bgt,R.drawable.menu_bgth};
 		TextView exit = (TextView) findViewById(R.id.exit);
 		TextView about_us_tv = (TextView) findViewById(R.id.about_us_tv);
 		TextView modify_lock = (TextView) findViewById(R.id.modify_lock);
+		ImageView menu_img=(ImageView)findViewById(R.id.menu_img);
+		Random random = new Random();
+		menu_img.setBackgroundResource(bgs[random.nextInt(3)]);
 		about_us_tv.setOnClickListener(this);
 		exit.setOnClickListener(this);
 		modify_lock.setOnClickListener(this);
@@ -166,14 +172,14 @@ public class MainActivity extends BaseActivity
 				}
 			});
 			mExitBuilder.setNegativeButton("取消", new OnClickListener() {
-				
+
 				@Override
 				public void onClick(DialogInterface dialog, int which) {
 					dialog.dismiss();
 				}
 			});
 			mExitBuilder.create().show();
-			
+
 			break;
 		case R.id.about_us_tv:
 			AlertDialog.Builder builder = new Builder(this, AlertDialog.THEME_HOLO_LIGHT);
@@ -272,7 +278,7 @@ public class MainActivity extends BaseActivity
 
 	@Override
 	public void beforeTextChanged(CharSequence s, int start, int count, int after) {
-		
+
 	}
 
 	@Override
@@ -286,7 +292,7 @@ public class MainActivity extends BaseActivity
 
 	@Override
 	public void afterTextChanged(Editable s) {
-		
+
 	}
 
 	// menu.setMode(SlidingMenu.LEFT);//设置左滑菜单

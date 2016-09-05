@@ -24,12 +24,12 @@
         "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable\\save_btn_selector.xml"
     },
     {
-        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable\\launch_btn_press.xml",
-        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable\\launch_btn_press.xml"
-    },
-    {
         "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable\\skin_color_button.xml",
         "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable\\skin_color_button.xml"
+    },
+    {
+        "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable\\launch_btn_press.xml",
+        "source": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\drawable\\launch_btn_press.xml"
     },
     {
         "merged": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_red.xml",

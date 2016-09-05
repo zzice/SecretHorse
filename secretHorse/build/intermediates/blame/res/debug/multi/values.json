@@ -11,7 +11,14 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\color.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 47,
+                        "endOffset": 154
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 153
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\color.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 1642
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 43,
+                        "endOffset": 128
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 1693
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 50,
+                        "endOffset": 179
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 1750
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\color.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 56,
+                        "endOffset": 212
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 1793
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\exploded-aar\\SecretHorse\\library\\unspecified\\res\\values\\values.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\build\\intermediates\\exploded-aar\\SecretHorse\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 42,
+                        "endOffset": 999
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 1833
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 39,
+                        "endOffset": 91
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 1901
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1324,
+                        "endColumn": 67,
+                        "endOffset": 1387
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 1991
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1234,
+                        "endColumn": 89,
+                        "endOffset": 1319
+                    }
                 }
             },
             {
@@ -119,7 +182,14 @@
                     "endOffset": 2056
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 571,
+                        "endColumn": 64,
+                        "endOffset": 631
+                    }
                 }
             },
             {
@@ -131,7 +201,14 @@
                     "endOffset": 2122
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 65,
+                        "endOffset": 566
+                    }
                 }
             },
             {
@@ -143,7 +220,14 @@
                     "endOffset": 2190
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 67,
+                        "endOffset": 1005
+                    }
                 }
             },
             {
@@ -155,7 +239,14 @@
                     "endOffset": 2266
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1010,
+                        "endColumn": 75,
+                        "endOffset": 1081
+                    }
                 }
             },
             {
@@ -167,7 +258,14 @@
                     "endOffset": 2343
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1086,
+                        "endColumn": 76,
+                        "endOffset": 1158
+                    }
                 }
             },
             {
@@ -179,7 +277,14 @@
                     "endOffset": 2414
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 70,
+                        "endOffset": 937
+                    }
                 }
             },
             {
@@ -191,7 +296,14 @@
                     "endOffset": 2498
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 787,
+                        "endColumn": 83,
+                        "endOffset": 866
+                    }
                 }
             },
             {
@@ -203,7 +315,14 @@
                     "endOffset": 2569
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 70,
+                        "endOffset": 1229
+                    }
                 }
             },
             {
@@ -215,7 +334,14 @@
                     "endOffset": 2641
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 71,
+                        "endOffset": 703
+                    }
                 }
             },
             {
@@ -227,7 +353,14 @@
                     "endOffset": 2704
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 62,
+                        "endOffset": 500
+                    }
                 }
             },
             {
@@ -239,7 +372,14 @@
                     "endOffset": 2783
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 78,
+                        "endOffset": 782
+                    }
                 }
             },
             {
@@ -251,7 +391,14 @@
                     "endOffset": 2857
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 73,
+                        "endOffset": 365
+                    }
                 }
             },
             {
@@ -263,7 +410,14 @@
                     "endOffset": 2927
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 69,
+                        "endOffset": 291
+                    }
                 }
             },
             {
@@ -275,7 +429,14 @@
                     "endOffset": 2999
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 71,
+                        "endOffset": 437
+                    }
                 }
             },
             {
@@ -287,7 +448,14 @@
                     "endOffset": 3068
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 68,
+                        "endOffset": 221
+                    }
                 }
             },
             {
@@ -299,7 +467,14 @@
                     "endOffset": 3136
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1392,
+                        "endColumn": 67,
+                        "endOffset": 1455
+                    }
                 }
             },
             {
@@ -311,7 +486,14 @@
                     "endOffset": 3197
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 60,
+                        "endOffset": 152
+                    }
                 }
             },
             {
@@ -323,7 +505,14 @@
                     "endOffset": 3262
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1460,
+                        "endColumn": 64,
+                        "endOffset": 1520
+                    }
                 }
             },
             {
@@ -336,7 +525,15 @@
                     "endOffset": 3554
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 183,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 470
+                    }
                 }
             },
             {
@@ -349,7 +546,15 @@
                     "endOffset": 3714
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 662
+                    }
                 }
             },
             {
@@ -362,7 +567,15 @@
                     "endOffset": 3994
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1280,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 1555
+                    }
                 }
             },
             {
@@ -375,7 +588,15 @@
                     "endOffset": 4270
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1561,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1832
+                    }
                 }
             },
             {
@@ -388,7 +609,15 @@
                     "endOffset": 4881
                 },
                 "from": {
-                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\SecretHorse\\secretHorse\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1274
+                    }
                 }
             }
         ]
